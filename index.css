@@ -130,5 +130,18 @@ button
     position: absolute;
     top: 26rem;
     left: 3.8rem;
-
+    background: #0701002a;
+    padding: .4rem .1rem;
+}
+.main2
+{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+.Mone img
+{
+   width: 239px;
+   height: 250px;
+   border-radius: .2rem;
 }
