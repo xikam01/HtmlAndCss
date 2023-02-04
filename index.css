@@ -118,3 +118,17 @@ button
     height: auto;
     background: transparent;
 }
+.main1 img
+{
+    width: 800px;
+    height: 400px;
+    border-radius: 2px;
+    position: relative;
+}
+.text
+{
+    position: absolute;
+    top: 26rem;
+    left: 3.8rem;
+
+}
